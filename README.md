@@ -1,7 +1,7 @@
 # Foldy-Wouthuysen Transformation Strong Magnetic Fields
 This project applies the non-commutative algebra package [NCAlgebra](www.github.com/NCAlgebra/NC) to calculate the Foldy-Wouthuysen (FW) Transformation Strong Magnetic Fields.
 
-Method uses itterative form of FW Transformation [1] to recreate known values of the H<sub>FW</sub> up to order α<sup>6</sup>[2-3]
+Method uses itterative form of FW Transformation [1] to recreate known values of the H<sub>FW</sub> up to order α<sup>6</sup> [2-3]
 
 ## Included files
 * fwTransformation.nb -- a mathematica notebook which uses [NCAlgebra](www.github.com/NCAlgebra/NC) package to carry out Foldy-Wouthuysen Transformation Strong Magnetic Fields.
@@ -18,7 +18,6 @@ Expand to higher orders in FW-Transformation. Compare to Hamiltonians derived el
 Values for H are not unique. and different value for S will result in different Hamiltonians which are equivalent up to a transformation [2]. Functionality exploring different S's could be added.
 
 ## External References
-Zatorski, Jacek, and Krzysztof Pachucki. "Electrodynamics of finite-size particles with arbitrary spin." Physical Review A 82, no. 5 (2010): 052520.
 [1] [Itzykson, Claude, and Jean-Bernard Zuber.](https://books.google.com/books?hl=en&lr=&id=CxYCMNrUnTEC&oi=fnd&pg=PP1&dq=C.+Itzykson+and+J.+B.+Zuber,+Quantum+Field+Theory&ots=am1wZ5kf9F&sig=oEFME-hWa_5-GvPntgNimvnIFDM#v=onepage&q&f=false)
     Quantum field theory. Courier Corporation, 2012.
 
