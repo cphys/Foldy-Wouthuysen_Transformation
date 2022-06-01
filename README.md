@@ -10,6 +10,7 @@ Method uses itterative form of FW Transformation [1] to recreate known values of
 This notebook relies on [NCAlgebra](www.github.com/NCAlgebra/NC) package 
 
 ## α<sup>6</sup> Output
+Below we show the sample output for H<sup>(i)</sup> for i={2,3,4,5,6}. Values are equivalent to those found in the literature [2,3].
 ![](/images/sixthOrder.png)
 
 ## Future Improvements
